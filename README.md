@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning java 
 - 💞️ I’m looking to collaborate on java related projects 
 - 📫 How to reach me
-- enail: mrounak198@gmail.com
+- email: mrounak198@gmail.com
   
 
 <!---
