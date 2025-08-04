@@ -1,6 +1,6 @@
--🚀 Welcome to My GitHub!
+- Welcome to My GitHub!
 
-Hi, I'm Rounak Mishra, a passionate Web Developer and MERN Stack Learner with a keen interest in Software Development and Open Source Contributions.
+Hi, I'm Rounak Mishra, a passionate Full Stack Web Developer with a keen interest in Software Development and Open Source Contributions.
 
 🔹 Skills: JavaScript, React, Node.js, Express, MongoDB, HTML, CSS, Python, Java
 🔹 Projects: Web apps, Chatbots, and Productivity Tools
