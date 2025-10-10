@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub
 
-Hi, I'm **Rounak Mishra**, a Computer Science Engineering undergraduate at Galgotias University.  
+Hi, I'm **Rounak Mishra**, a Computer Science Engineering undergraduate at Galgotias University.   
 I’m interested in **software development, full-stack web applications, and open-source contributions**.  
 
 - **Skills:** JavaScript, React, Node.js, Express, MongoDB, HTML, CSS, Python, Java  
