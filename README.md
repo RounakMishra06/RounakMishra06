@@ -111,7 +111,7 @@ I’m interested in **software development, full-stack web applications, and ope
   <a href="https://github.com/RounakMishra06" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://x.com/RounakMishra06" target="_blank">
+  <a href="https://x.com/Rounak_Mishra06" target="_blank">
     <img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
 
