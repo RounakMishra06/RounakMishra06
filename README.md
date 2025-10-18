@@ -98,12 +98,15 @@ I’m interested in **software development, full-stack web applications, and ope
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RounakMishra06&layout=compact&theme=radical" height="180em"/>
 </p>
 ---
-## 🏆 GitHub Trophies
+---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RounakMishra06&theme=algolia&no-frame=false&no-bg=true&margin-w=15&margin-h=15&column=7" />
-</p>
+### 🏆 GitHub Trophies  
 
+<p align="center">  
+  <img src="https://github-profile-trophy.vercel.app/?username=RounakMishra06&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies"/>  
+</p>  
+
+---
 ---
 
 ## 🤝 Connect with Me
