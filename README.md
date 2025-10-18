@@ -3,7 +3,7 @@
 Hi, I'm **Rounak Mishra**, a Computer Science Engineering undergraduate at Galgotias University.   
 I’m interested in **software development, full-stack web applications, and open-source contributions**.  
 
-- **Skills:** JavaScript, React, Node.js, Express, MongoDB, HTML, CSS, Python, Java  
+- **Skills:** JavaScript, React, Node.js, Express, MongoDB, HTML, CSS, Python, Java   
 - **Projects:** Web applications, utility tools, and collaborative open-source contributions  
 - **Experience:** Web development internships | Contributor to developer communities  
 - **Areas of Interest:** Data Structures & Algorithms, Cybersecurity, AI & ML  
