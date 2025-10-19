@@ -5,7 +5,7 @@ I’m interested in **software development, full-stack web applications, and ope
 
 - **Skills:** JavaScript, React, Node.js, Express, MongoDB, HTML, CSS, Python, Java   
 - **Projects:** Web applications, utility tools, and collaborative open-source contributions  
-- **Experience:** Web development internships | Contributor to developer communities  
+- **Experience:** Web development internships | Contributor to developer communities
 - **Areas of Interest:** Data Structures & Algorithms, Cybersecurity, AI & ML  
 
 💻I’m continuously learning, building real-world projects, and open to exciting collaboration opportunities.  
