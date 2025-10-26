@@ -102,9 +102,8 @@ I’m interested in **software development, full-stack web applications, and ope
 
 ## 🏆 GitHub Trophies  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RounakMishra06&show_icons=true&theme=gruvbox" alt="GitHub Stats"/>
-</p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&animation=spin"/>
+
 
 ---
 
