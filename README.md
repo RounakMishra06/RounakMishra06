@@ -73,6 +73,7 @@ Areas of Interest: Data Structures & Algorithms, Cybersecurity, Artificial Intel
   <a href="mailto:rounakmishra2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/RounakMishra06"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://x.com/RounakMishra06"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Rounak2cse/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=LeetCode&logoColor=white" /></a>
 </p>
 
 </div>
