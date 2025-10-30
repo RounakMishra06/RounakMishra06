@@ -7,13 +7,10 @@ With practical experience in JavaScript, React, Node.js, Express, MongoDB, HTML,
 
 I’ve built and contributed to real-world web applications, automation tools, and open-source projects, and actively participate in developer communities and hackathons.
 
-My areas of interest include:
-
-Data Structures & Algorithms
-
-Cybersecurity
-
-Artificial Intelligence & Machine Learning
+### 💡 Areas of Interest  
+- **Data Structures & Algorithms**  
+- **Cybersecurity**  
+- **Artificial Intelligence & Machine Learning**
 
 I’m a continuous learner driven by curiosity and innovation — always eager to collaborate on impactful projects that combine technology and creativity.
 
