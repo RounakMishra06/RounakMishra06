@@ -1,17 +1,21 @@
 👋 Welcome to My GitHub
 
-Hi, I'm Rounak Mishra, a Computer Science Engineering undergraduate at Galgotias University.
-I’m passionate about software development, full-stack web applications, and open-source contributions.
+Hi, I'm Rounak Mishra, a prefinal-year Computer Science Engineering undergraduate at Galgotias University.
+I’m passionate about software development, full-stack web applications, and open-source collaboration.
 
-Skills: JavaScript, React, Node.js, Express, MongoDB, HTML, CSS, Python, Java
+With practical experience in JavaScript, React, Node.js, Express, MongoDB, HTML, CSS, Python, and Java, I enjoy designing and developing efficient, scalable, and user-centric solutions.
 
-Projects: Web applications, utility tools, and collaborative open-source contributions
+I’ve built and contributed to real-world web applications, automation tools, and open-source projects, and actively participate in developer communities and hackathons.
 
-Experience: Web development internships | Contributor to developer communities
+My areas of interest include:
 
-Areas of Interest: Data Structures & Algorithms, Cybersecurity, Artificial Intelligence & Machine Learning
+Data Structures & Algorithms
 
- I’m continuously learning, building real-world projects, and open to exciting collaboration opportunities.
+Cybersecurity
+
+Artificial Intelligence & Machine Learning
+
+I’m a continuous learner driven by curiosity and innovation — always eager to collaborate on impactful projects that combine technology and creativity.
 
 ## **Tech Stack**
 
