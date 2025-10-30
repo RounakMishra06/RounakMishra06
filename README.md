@@ -28,15 +28,51 @@ Areas of Interest: Data Structures & Algorithms, Cybersecurity, Artificial Intel
 <p align="left"> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/> </p>
 🧰 Tools & Utilities
 <p align="left"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/> </p>
-📊 GitHub Stats
-<div align="center"> <table> <tr> <td align="center" width="48%">
-📊 Overall Stats
-<img src="https://github-readme-stats.vercel.app/api?username=RounakMishra06&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Stats"/> </td> <td align="center" width="48%">
-🔥 Streaks
-<img src="https://streak-stats.demolab.com?user=RounakMishra06&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak"/> </td> </tr> </table>
-🧠 Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RounakMishra06&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top Languages"/>
-🛠️ Tools & Utilities
-<p align="center"> <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /> </p>
-🤝 Connect with Me
-<p align="center"> <a href="https://linkedin.com/in/rounakmishra"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:rounakmishra2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://github.com/RounakMishra06"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://x.com/RounakMishra06"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> </p> </div>
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="48%">
+
+### ⚡ Overall Stats  
+<img src="https://github-readme-stats.vercel.app/api?username=RounakMishra06&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats"/>
+
+</td>
+<td align="center" width="48%">
+
+### 🔥 Streaks  
+<img src="https://streak-stats.demolab.com?user=RounakMishra06&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🧠 Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RounakMishra06&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages"/>
+
+---
+
+### 🧰 Tools & Utilities
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/rounakmishra"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:rounakmishra2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/RounakMishra06"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://x.com/RounakMishra06"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
+
+</div>
