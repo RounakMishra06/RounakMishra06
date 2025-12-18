@@ -1,4 +1,7 @@
 👋 Welcome to My GitHub  
+![Profile Views](https://komarev.com/ghpvc/?username=rounakmishra06)
+![GitHub Followers](https://img.shields.io/github/followers/rounakmishra06?label=Followers)
+
 
 Hi, I'm Rounak Mishra, a prefinal-year Computer Science Engineering undergraduate at Galgotias University.
 I’m passionate about software development, full-stack web applications, and open-source collaboration.
