@@ -91,7 +91,7 @@ I’m a continuous learner driven by curiosity and innovation — always eager t
 <div align="center">
 
 
-<table>
+<table> 
 <tr>
 <td align="center" width="48%">
 
