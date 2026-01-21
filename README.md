@@ -109,6 +109,12 @@ I’m a continuous learner driven by curiosity and innovation — always eager t
 </table>
 
 ---
+### 🚀 Codolio Stats
+
+<a href="https://codolio.com/profile/RounakMishra" target="_blank">
+  <img src="https://codolio.com/profile/RounakMishra/card" alt="Codolio Stats" />
+</a>
+---
 
 ##  LeetCode Stats  
 
