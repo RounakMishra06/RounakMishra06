@@ -96,6 +96,10 @@ I’m a continuous learner driven by curiosity and innovation — always eager t
 <td align="center" width="48%">
 
 ---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RounakMishra06&show_icons=true&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=RounakMishra06&theme=tokyonight&hide_border=true&border_radius=10)
+
 
 ##  LeetCode Stats  
 
