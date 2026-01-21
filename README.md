@@ -95,26 +95,6 @@ I’m a continuous learner driven by curiosity and innovation — always eager t
 <tr>
 <td align="center" width="48%">
 
-###  Overall Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=RounakMishra06&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats"/>
-
-</td>
-<td align="center" width="48%">
-
-<table>
-  <tr>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=RounakMishra06&theme=tokyonight&hide_border=true&border_radius=10" />
-    </td>
-    <td>
-      <a href="https://codolio.com/profile/RounakMishra" target="_blank">
-        <img src="https://codolio.com/profile/RounakMishra/card" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-
 ---
 
 ##  LeetCode Stats  
