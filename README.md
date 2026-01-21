@@ -101,19 +101,20 @@ I’m a continuous learner driven by curiosity and innovation — always eager t
 </td>
 <td align="center" width="48%">
 
-###  Streaks  
-<img src="https://streak-stats.demolab.com?user=RounakMishra06&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
-
-</td>
-</tr>
+<table>
+  <tr>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=RounakMishra06&theme=tokyonight&hide_border=true&border_radius=10" />
+    </td>
+    <td>
+      <a href="https://codolio.com/profile/RounakMishra" target="_blank">
+        <img src="https://codolio.com/profile/RounakMishra/card" />
+      </a>
+    </td>
+  </tr>
 </table>
 
----
-### 🚀 Codolio Stats
 
-<a href="https://codolio.com/profile/RounakMishra" target="_blank">
-  <img src="https://codolio.com/profile/RounakMishra/card" alt="Codolio Stats" />
-</a>
 ---
 
 ##  LeetCode Stats  
