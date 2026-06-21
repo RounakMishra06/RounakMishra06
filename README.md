@@ -4,19 +4,20 @@
 
  
 
-Hi, I'm Rounak Mishra, a prefinal-year Computer Science Engineering undergraduate at Galgotias University.
-I’m passionate about software development, full-stack web applications, and open-source collaboration. 
+Hi, I'm Rounak Mishra, a final-year B.Tech Computer Science and Engineering student at Galgotias University.
 
-With practical experience in JavaScript, React, Node.js, Express, MongoDB, HTML, CSS, Python, and Java, I enjoy designing and developing efficient, scalable, and user-centric solutions.
+I have experience in software development, full-stack web development, and open-source projects. My technical skills include Java, JavaScript, Python, React.js, Node.js, Express.js, MongoDB, HTML, CSS, and SQL.
 
-I’ve built and contributed to real-world web applications, automation tools, and open-source projects, and actively participate in developer communities and hackathons.
+I have worked on web applications, AI-based projects, and automation solutions, with a focus on building scalable and efficient systems. I actively participate in hackathons, coding competitions, and open-source programs, which have helped me strengthen my problem-solving, development, and collaboration skills.
 
-###  Areas of Interest  
-- **Data Structures & Algorithms**  
-- **Cybersecurity**  
-- **Artificial Intelligence & Machine Learning**
+### Areas of Interest
 
-I’m a continuous learner driven by curiosity and innovation — always eager to collaborate on impactful projects that combine technology and creativity.
+* Data Structures & Algorithms
+* Full-Stack Development
+* Cybersecurity
+* Artificial Intelligence & Machine Learning
+
+I am interested in software engineering opportunities, open-source collaboration, and building technology-driven solutions that create real-world impact.
 
 ## **Tech Stack**
 
